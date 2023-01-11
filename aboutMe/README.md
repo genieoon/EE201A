@@ -3,7 +3,7 @@
 Hello! **My name is Nattapon (Genie).** I am a junior in ECE. I gave up my pretigious dream of becoming a Kpop idol to pursue debts and misery in this prestigious college. 😢
 
 
-# Fun Facts:
+### Fun Facts:
 - I love sleeping and eating. 
 - I love art.
 - I love musics.
