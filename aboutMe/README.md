@@ -1,6 +1,6 @@
 # Introduction:
 
-Hello! **My name is Nattapon (Genie).** I am a junior in ECE. ==I gave up my pretigious dream of becoming a Kpop idol to pursue debts and misery in this prestigious college==. 😢
+Hello! **My name is Nattapon (Genie).** I am a junior in ECE. <mark>I gave up my pretigious dream of becoming a Kpop idol to pursue debts and misery in this prestigious college</mark>. 😢
 
 
 # Fun Facts:
