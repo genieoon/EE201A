@@ -1,3 +1,6 @@
+// Exercise #2: Interchangeably blink LED1 and LED2
+// 01/17/2023
+
 void setup() {
   // put your setup code here, to run once:
   pinMode(12, OUTPUT);  
