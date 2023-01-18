@@ -1,5 +1,8 @@
+// Task #4: Count 9-0 in on a 7-segment display 15 sec
+// 01/17/2023
+
 void setup() {
-  // put your setup code here, to run once:
+  // setup code, to run once:
   pinMode(12, OUTPUT);  
   pinMode(13, OUTPUT); 
   pinMode(11, OUTPUT);  
@@ -10,16 +13,16 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-  
-  // pins equvalent to the 7-HEX segments
-  //12 = a
-  //13 = b
-  //11 = c
-  //10 = d
-  //9 = e
-  //7 = f
-  //6 = g
+  // run repeatedly:
+  // active low 7-segment displays
+  /* pin corresponding to the segment
+       12 = a
+       13 = b
+       11 = c
+       10 = d
+       9 = e
+       7 = f
+       6 = g */
 
   //9
   digitalWrite(12, LOW);
